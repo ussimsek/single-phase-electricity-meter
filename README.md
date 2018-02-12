@@ -12,7 +12,7 @@ http://www.ccsinfo.com/downloads.php you can download and install the program fr
 
 
 ## Leg connection diagrams of the 18f4620 integrated system
-<img src="ussimsek/single-phase-electricity-meter/blob/master/Screenshots/18f4620.bmp" width="200"/>
+<img src="https://raw.githubusercontent.com/ussimsek/single-phase-electricity-meter/master/Screenshots/18f4620.bmp" width="200"/>
 ## 7805 circuit element holding output voltage or current constant
 
 ## ds Oscillator
