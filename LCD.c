@@ -29,4 +29,4 @@
    
    printf(lcd_putc,"\f Z=%c",z);
    delay_ms(3000);
-  }
+  
